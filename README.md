@@ -1,5 +1,6 @@
   Oiie, eu sou a **@amorilyzz**
-
+## Sobre mim
+ 
  Estudante de **Desenvolvimento Web** na **AFESU Veleiros – Vila Missionária**
  Sempre aprendendo novas tecnologias e melhorando minhas habilidades como desenvolvedora.
  Apaixonada por **filmes**, **música** e criatividade.
@@ -9,16 +10,9 @@
 
 
 
-##  Minha jornada
+##  
 
-Estou no começo da minha jornada como desenvolvedora e uso este GitHub para **compartilhar projetos, estudos e experimentos** enquanto aprendo mais sobre programação e desenvolvimento web.
-
-
-
-##  Conecte-se comigo
-
-* GitHub: https://github.com/amorilyzz
+Estou no começo da minha carreira como desenvolvedora e vou usar o GitHub para **compartilhar projetos e estudos** enquanto aprendo mais sobre programação e desenvolvimento web.
 
 
 
-⭐ *"Sempre aprendendo, sempre criando."*
