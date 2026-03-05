@@ -1,6 +1,5 @@
   Oiie, eu sou a **@amorilyzz**
-## Sobre mim
- 
+
  Estudante de **Desenvolvimento Web** na **AFESU Veleiros – Vila Missionária**
  Sempre aprendendo novas tecnologias e melhorando minhas habilidades como desenvolvedora.
  Apaixonada por **filmes**, **música** e criatividade.
